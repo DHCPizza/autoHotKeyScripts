@@ -1,6 +1,6 @@
 # AutoHotKeyScripts (for work)
 
-Tying these scripts to macro keys is what makes them powerful.
+Tying these to macro keys is what makes them powerful.
 
 ## Outlook Desktop Client
 ### Toggle - Read when selection changes
